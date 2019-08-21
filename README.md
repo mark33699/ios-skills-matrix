@@ -1,17 +1,6 @@
+中文翻譯
+
 ![iOS Developer Skills Matrix](matrix.png)
-
-## ☝️ What is it?
-A compilation of **indicators** about knowledge in a particular area of **iOS development**.
-
-## ✌️ How to use it?
-Move from the left to right, try to give a confident, affirmative answer. Ability to hold a **meaningful conversation** about a particular topic is typically a good rule of thumb 👍
-
-## 👌 Why these levels/skills?
-This [article](https://medium.com/ios-os-x-development/ios-developer-skills-matrix-fee807255235) explains a bit 😉
-
-## Google Docs Version
-[Google Docs Version Link](https://docs.google.com/document/d/188eTEiNRnk2qelYbOsHuDxnvdtLVCa4hm4v0Nxop3Nk/edit?usp=sharing)
-
 
 ## Markdown Version
 |                         | Junior                                                  | Middle                                                          | Senior                                                                      |
